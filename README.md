@@ -20,7 +20,7 @@ You've made it to the final assessment! It's time to put everything that you've 
 
 For this assessment you must:
 - Implement CRUD operations for at least 2 resources
-- Implement user authentication (optional)
+- Implement user authentication (optional but highly recommended)
 - Implement proper routing and site navigation
 - Consume data from at least 2 third party APIs
 - Implement a database and back-end API to store and deliver your application data
