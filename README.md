@@ -2,7 +2,6 @@
 - **Personal Project**
 
 ## Important Grading Information
-- TODO: ADD GRADING RUBRIC LINK HERE
 - This assessment is worth 40% of your final grade. You need to get a 75% or better to pass. (You must pass all assessments in order to graduate Code Platoon's program.)
 - If you fail the assessment, you have can retake it once to improve your score.
 
