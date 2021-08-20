@@ -40,7 +40,7 @@ class HomePage extends Component {
 
     renderShopList(){
         let elements = this.state.shops.map((shop, index)=>{
-            return <h3><Link to={`shops/${shop.id}`}>{shop.name} ({shop.location.address1})</Link></h3>
+            return <h3><Link to={`shops/${shop.alias}`}>{shop.name} ({shop.location.address1})</Link></h3>
         })
         return elements
     }
@@ -48,7 +48,7 @@ class HomePage extends Component {
     render() {
         return (
         <div>
-            <h1> Home Page </h1>
+            <h1> Ice Cream Shops nearby </h1>
             {this.renderShopList()}
         </div>
         )
