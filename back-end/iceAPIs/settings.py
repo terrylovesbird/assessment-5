@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'iceShops',
     'corsheaders',
+    "rest_framework"
 ]
 
 MIDDLEWARE = [

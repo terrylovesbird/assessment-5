@@ -6,6 +6,7 @@ chardet==3.0.4
 coverage==4.5.3
 Django==3.2.6
 django-cors-headers==3.8.0
+djangorestframework==3.12.4
 Faker==1.0.5
 idna==2.8
 more-itertools==7.0.0

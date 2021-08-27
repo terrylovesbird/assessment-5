@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 // import ShopList from '../components/ShopList/ShopList.js'
-import ShopAPI from '../api/ShopAPI.js';
+import ShopAPI from '../api/shopAPI.js';
 import { Link } from "react-router-dom";
 import axios from 'axios';
 
